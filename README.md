@@ -1,2 +1,2 @@
-# commerce_az_project
-data source for Azure data pipeline 
+# azure-sales-data-pipeline
+End-to-End Azure Data Engineering Project using ADF, Databricks, PySpark and SQL
